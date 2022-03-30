@@ -22,7 +22,8 @@ The following libraries are needed to run this script:
 2. The arduino cannot switch the high power needed for the heater so a MOSFET is used instead. 
 3. The feedback temperature is read with a thermocouple wired as described in the circuit.
 4. Once running verify each hardware component is working. LCD will display "PID controller" if operating correctly in ` void setup()`.
-5. The system can be tuned with the Kp, Ki, and Kd values.
+5. The temperature should then display the temperature in real time on the LCD screen.
+6. The system can be tuned with the Kp, Ki, and Kd values.
 
 
 
