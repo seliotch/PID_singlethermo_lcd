@@ -1,7 +1,4 @@
 # PID_singlethermo_lcd
-
-
-# ml_doe_fact
 This code was written to PID tune the temperature of a heater for an optical lens.
 
 ## 1. Description
